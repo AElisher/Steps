@@ -1,0 +1,1 @@
+TOKEN = "5028716361:AAEKn4Cbkup2cKQ5VR5fV-3Gn9WS-qv8TOY" #Telegram 1bot token
